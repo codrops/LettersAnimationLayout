@@ -1,12 +1,12 @@
 # Distributed Letters Animation Layout
 
-*A description of the demo goes here.*
+A distributed letters animation in the context of a triple panel layout with hover effect.
 
-![Image Title](https://generative-placeholders.glitch.me/image?width=800&height=600")
+![Distributed Letters Animation Layout](https://tympanus.net/codrops/wp-content/uploads/2021/03/LettersAnimationLayout.jpg)
 
-[Article on Codrops](https://tympanus.net/codrops/?p=)
+[Article on Codrops](https://tympanus.net/codrops/?p=53892)
 
-[Demo](http://tympanus.net/Development/.../)
+[Demo](http://tympanus.net/Development/LettersAnimationLayout/)
 
 
 ## Installation
@@ -31,11 +31,9 @@ npm run build
 
 ## Credits
 
-- *third party resources*
+- Images from [Unsplash](https://unsplash.com/)
 
 ## Misc
-
-Follow *Author*: [Twitter](), [Dribbble](), [Google+](), [GitHub]() 
 
 Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
 
